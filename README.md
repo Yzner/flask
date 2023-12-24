@@ -1,0 +1,9 @@
+- CRUD(Create, Read, Update, Delete) operations for all the table in the database,
+- Tests all the python file,
+- Created a python file on every table,
+- Created _init_.py for connection of database and to connect the python file for every table
+- Created main.py for run all the python file
+- Added a simple search functionality(Show all the players and their matches, show specific player and show it full details, and show the game and who played it).
+- Using Postman to CREATE(POST),READ(GET),UPDATE(PUT),DELETE(DELETE),
+- I used the JSON format
+- Formatting options
